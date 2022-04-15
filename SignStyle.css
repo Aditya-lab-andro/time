@@ -1,0 +1,60 @@
+.left{
+  width:400px;
+  height: 1440px;
+  background-color:#A5CFD3;
+  float: left;
+
+}
+.left h1{
+  color: #fff
+}
+.right{
+  float: left;
+  text-align: center;
+  padding-left: 450px;
+}
+.right h3{
+  font-size: 50px;
+}
+
+.logo{
+  height: 718.76px;
+  width: 700.58px;
+
+}
+.UserDetail{
+ height: 253px;
+}
+
+.mainHead{
+  width: 451px;
+  height: 225px;
+  font-size: 50px;
+}
+
+.createBtn{
+margin-left: auto;
+margin-bottom: 10px;
+width: 300px;
+height: 40px;
+background: #76C6CE;
+border-radius: 50px;
+text-align:center;
+}
+.createBtn a {
+  font-size: 27px;
+  text-decoration: none;
+  color: #fff
+}
+.SignIn{
+  text-decoration: none;
+  color: #76C6CE;
+}
+.xyz{
+  margin-left: 50px;
+}
+
+body{
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+}
